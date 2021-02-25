@@ -128,3 +128,5 @@ Ars Boretskii kernel 1.0
 - User mode & TSS (ring3)
 - Extend initrd to support more that 4Kb (reseach needed why qemu cut it)
 - Forth interpreter (as next initrd elf)
+
+This peace
