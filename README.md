@@ -129,4 +129,4 @@ Ars Boretskii kernel 1.0
 - Extend initrd to support more that 4Kb (reseach needed why qemu cut it)
 - Forth interpreter (as next initrd elf)
 
-This peace i will
+This peace i will change
