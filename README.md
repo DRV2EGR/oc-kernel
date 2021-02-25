@@ -130,3 +130,4 @@ Ars Boretskii kernel 1.0
 - Forth interpreter (as next initrd elf)
 
 This peace i will change
+Sorry, my teacher say that i must do this with this repository...
